@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Manim generated files
+media/
+renders/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
